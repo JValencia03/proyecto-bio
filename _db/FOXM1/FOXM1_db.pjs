@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "FOXM1_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "./db/FOXM1_datasets/ncbi_dataset/data/protein.faa",
+  "number-of-letters": 18772,
+  "number-of-sequences": 32,
+  "last-updated": "2023-08-31T06:15:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1023987,
+  "bytes-to-cache": 19193,
+  "files": [
+    "FOXM1_db.pdb",
+    "FOXM1_db.phr",
+    "FOXM1_db.pin",
+    "FOXM1_db.pot",
+    "FOXM1_db.psq",
+    "FOXM1_db.ptf",
+    "FOXM1_db.pto"
+  ]
+}

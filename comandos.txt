@@ -1,0 +1,3 @@
+./makeblastdb -in protein.faa -out DataBase -dbtype prot -parse_seqids
+
+blastp -query protein.faa -db DataBase -out output.txt -outfmt 6 -evalue 0.00001 -max_target_seqs 5

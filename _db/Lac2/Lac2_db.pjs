@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "Lac2_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "./db/Lac2_datasets/ncbi_dataset/data/protein.faa",
+  "number-of-letters": 1430,
+  "number-of-sequences": 2,
+  "last-updated": "2023-08-31T07:21:00",
+  "number-of-volumes": 1,
+  "bytes-total": 1001896,
+  "bytes-to-cache": 1581,
+  "files": [
+    "Lac2_db.pdb",
+    "Lac2_db.phr",
+    "Lac2_db.pin",
+    "Lac2_db.pot",
+    "Lac2_db.psq",
+    "Lac2_db.ptf",
+    "Lac2_db.pto"
+  ]
+}
